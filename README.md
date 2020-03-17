@@ -10,6 +10,21 @@ This application assists users with building habits. This tool does so by enabli
 The habit app will require users to login which will allow mulitple users to use the app
 Additionally the app will be available offline.
 
+# Technologies
+* This application utilizes the following technologies:
+- ReactJS
+- MaterializeUI
+- PassportJS
+- JSON
+- Axios
+- NodeJS
+- MongoDB
+- API Routes
+
+
+![alt text](StarChart-HabitHelper.gif "Habit Gif")
+
+
 ## Heroku URLs  
   [master branch](https://habit-app-2020.herokuapp.com/)
   
